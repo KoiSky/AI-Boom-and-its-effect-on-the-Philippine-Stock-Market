@@ -1,5 +1,4 @@
 # AI Boom and its effect on the Philippine Stock Market
--- Repo is private, remember to set to public --
 
 ### Task Given
 Analyze the PSEi stock data during when ChatGPT was released to the public and how it has affected the Philippine Stock Market.
